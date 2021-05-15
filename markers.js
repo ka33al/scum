@@ -19,4 +19,11 @@ const markers = [ {
     "loot": "https://steamuserimages-a.akamaihd.net/ugc/1794100072124467014/9DC92170AA2234E701FCAD0CBCDA7042B4481192/",
     "colour": "yellow",
     "createdDate": "2021-05-14T22:00:00.000Z"
+},{
+    "server": "SCUM Server Official #3 - Europe",
+    "left": "30.43%",
+    "top": "37.56%",
+    "loot": "https://steamuserimages-a.akamaihd.net/ugc/1794100072124467014/9DC92170AA2234E701FCAD0CBCDA7042B4481192/",
+    "colour": "yellow",
+    "createdDate": "2021-05-14T22:00:00.000Z"
 } ];
